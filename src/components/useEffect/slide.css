@@ -1,0 +1,24 @@
+.left,.right{ 
+    opacity: .4;
+    position: absolute;
+    top: 40%;
+    width: 30px;
+    height: 25px;
+    background-image: url(./bf.jpeg)  ;
+    border-radius: 70px;
+}
+
+.left{
+    left: 25%;
+    background-size: 60px 25px;
+}
+
+.right{
+    right: 25%;
+    background-size: 60px 25px;
+    background-position: 27px -1px;
+}
+.left:hover,.right:hover{
+    opacity: 1;
+    transition: opacity 3s;
+}
