@@ -1,0 +1,90 @@
+[
+    {
+        "id": 0,
+        "name": "COVID-19 devastates Palestine’s shattered economy",
+        "url": "http://localhost:3000/img/palestine.jpg",
+        "details": [
+            {
+                "title": "An economy under siege",
+                "detail": [
+                    "UNCTAD routinely assesses and reports on the economic costs of the Israeli occupation for the Palestinian people, as requested by several UN General Assembly resolutions.",
+                    "Restrictions and leakage of fiscal resources continue to undermine the Palestinian economy. UNCTAD previously estimated the annual leakage of Palestinian fiscal resources to the Israeli treasury at 3.7% of GDP or 17.8% of total tax revenues.",
+                    "In addition, in March of this year a new annual deduction of $144 million from Palestinian clearance revenues has been put in place - equivalent to the payments made by the Palestinian National Authority (PNA) to families of Palestinians in Israeli prisons or killed in attacks or alleged attacks against Israelis.",
+                    "The fiscal standoff weighed heavily on the economy and constrained GDP growth. The impact of the fiscal loss to occupation has been compounded by the substantial decline in donor support to the PNA. Donor budget support fell from a high 32% of GDP in 2008 to 3.5% in 2019.",
+                    "The measures imposed by Israel, decline in donor support, and the ensuing poor economic performance, have resulted in a significant deterioration of socio-economic conditions in the oPt, the report notes.",
+                    "The depression-level unemployment rate increased from 31% in 2018 to 33% in 2019, while the poverty level rose from 25.8% to 29.2% between 2011 and 2017 and has since worsened.",
+                    "In Gaza, 80% of the population depends on unstable international assistance, lacking food security, hygiene resources, health care, electricity and safe drinking water."
+                ]
+            },
+            {
+                "title": "COVID-19 deepens the economic pain",
+                "detail": [
+                    "Lockdown measures to control COVID-19 since it was reported in the oPt in early March have had grave fiscal implications. Barely a month after the outbreak, revenues collected by the PNA from trade, tourism and transfers declined to their lowest levels in 20 years.",
+                    "The fiscal impact is heightened by the additional expenditure on health, social welfare and support for the private sector necessitated by the pandemic.",
+                    "Furthermore, the Palestinian economy has been highly dependent on official and private transfers. Both, however, are projected to decline in the aftermath of the pandemic. Donor support in 2020 is expected to fall to about $266 million, the lowest in more than a decade.",
+                    "Various estimates on the cost of the pandemic point to an economic loss in the range of 7% to 35% of GDP, depending on forecast assumptions about the severity and duration of the pandemic. Fiscal revenues are expected to nosedive in tandem with GDP.",
+                    "Under occupation, the PNA lacks the policy space and economic policy tools to deal with the massive challenge posed by the pandemic. It has no access to external borrowing, no national currency, no independent monetary policy and no fiscal space.",
+                    "“The international community should urgently redouble support to the Palestinian people to enable them to cope with the economic fallout from the pandemic. There is no alternative to donor support for ensuring the survival of the Palestinian economy,” UNCTAD Secretary-General Mukhisa Kituyi said."
+                ]
+            }
+        ],
+        "color": "#af4"
+    },
+    {
+        "id": 1,
+        "name": "Highlights of Jordan: A 7 Day Jordan Itinerary for First Time Visitors",
+        "url": "http://localhost:3000/img/jordan.jpg",
+        "details": [
+            {
+                "title": "Planning a trip to Jordan? Read this travel guide for the best places to visit in Jordan in a week!",
+                "detail": [
+                    "Jordan may be a small country, but the Hashemite Kingdom sure packs a punch. The Middle Eastern country is home to some of the best preserved Roman ruins in the world, ancient cities, citadels and castles, fortresses, one of the new Wonders of the World, wildlife sanctuaries and a sprawling desert valley. Most first-time visitors opt to spend 1 week in Jordan, taking in the country’s wondrous sights.",
+                    "I fell in love with Jordan when we visited earlier this year – I wasn’t sure what to expect, but it managed to surpass everything I could have ever imagined. If Jordan isn’t on your list of places to visit, why the heck not?! If you’re planning a trip to Jordan, read on for some of the best places to visit, an easy-to-follow Jordan 7 day itinerary and some must-know tips for your epic journey."
+                ]
+            }
+        ],
+        "color": "#a14"
+    },
+    {
+        "id": 2,
+        "name": "Seven Wonders of Egypt",
+        "url": "http://localhost:3000/img/egypt.jpeg",
+        "details": [
+            {
+                "title":"Pyramids of Giza",
+                "detail":[
+                    "The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza Necropolis bordering Cairo, Egypt. It is the only remaining member of the Seven Wonders of the World and is believed to have been built as a tomb for Fourth Dynasty Egyptian Pharaoh Khufu, constructed over a 20 year period concluding around 2560 BC. The Great Pyramid is the main part of a complex or set of buildings that include two mortuary temples in honor of Khufu. There are also three smaller pyramids for Khufu's wives."
+                ]
+            }
+        ],
+        "color": "#a54"
+    },
+    {
+        "id": 3,
+        "name": "INCLUSIVE GOVERNANCE AND LEADERSHIP LEBANON 2018",
+        "url": "http://localhost:3000/img/lebanon.jpg",
+        "details": [
+            {
+                "title":"About lebanon",
+                "detail":[
+                    "The Hague Academy for local governance designed and delivered a seven-day training on inclusive Governance and Leadership in Lebanon in June 2018. The training was delivered to twelve highly talented professionals who work either in the central departments of the ministry of social affairs and in the local development centres across Lebanon, and who deal directly with the service delivery for both Syrian refugees and Lebanese host communities."
+                ]
+            }
+        ],
+        "color": "#a94"
+    },
+    {
+        "id": 4,
+        "name": "Italy",
+        "url": "http://localhost:3000/img/italy.jpg",
+        "details": [
+            {
+                "title":"About italy travel",
+                "detail":[
+                    "Sipping Chianti in rustic Tuscany. Eating pizza on a Rome backstreet. Or exploring ancient history at Pompeii. Italy has a way of capturing the heart of travelers unlike anywhere else on Earth. Perhaps it's the landscapes, from the towering Alps and Dolomites to the glamor and grandeur of the Amalfi Coast. Maybe it's the cuisine, whether it's seafood in Sicily or pasta e patate in Naples. Or is it the atmosphere, of crazed city streets and sleepy villages, where life seems to be lived with true passion? The simple fact is, it's impossible not to romanticize Italy. With cities as beautiful as Venice and Florence and a proudly worn classical history, it's hardly surprising it retains such an allure."
+                ]
+            }
+        ],
+        "color": "#f04"
+    }
+]
